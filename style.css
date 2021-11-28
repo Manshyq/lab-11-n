@@ -2,6 +2,8 @@
 	font-family: sans-serif;
 }
 
+@media screen and (max-width:500px)
+
 .block-info {
 	height:60vh;
 	background-color: #0089ED;
@@ -81,25 +83,11 @@ line-height: 30px;
 	line-height: 24px;
 }
 .block-accounts_first {
-	position: absolute;
-	width: 145px;
-	height: 164px;
-	left: 73px;
-	top: 562px;
-	cursor: pointer;
-	background: #EFF8FF;
-	border-radius: 9px;
+	
 }
 
 .block-accounts_second {
-	position: absolute;
-	width: 145px;
-	height: 164px;
-	left: 249px;
-	top: 450px;
-	background: #EFF8FF;
-	border-radius: 9px;
-	cursor: pointer;
+	
 }
 .sign-in-form {
 	z-index: 2;
