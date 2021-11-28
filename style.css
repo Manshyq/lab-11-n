@@ -1,16 +1,18 @@
 @media screen and (max-width:500px){
+	
+
+
 *body{
 	font-family: sans-serif;
 }
 
-@media screen and (max-width:500px)
+
 
 .block-info {
 	height:60vh;
 	background-color: #0089ED;
 	color:white;
 	z-index: 1;
-
 }
 .block-info__logo {
 	position: absolute;
@@ -219,4 +221,5 @@ line-height: 30px;
 	font-size: 16px;
 	line-height: 24px;
 }
+
 }
